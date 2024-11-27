@@ -1,7 +1,5 @@
 # LBYARCH-MP2-G10
 
-# LBYARCH-MP2-G10
-
 ## Overview
 
 This repository contains the machine project application of C to x86-64 interface. The main program, written in C, handles input and output macros, while the SIMD Assembly code manages the logic and arithmetic instructions. The project’s goal is to calculate the distances between coordinate points across two vectors. The program integrates C for high-level operations and assembly for performance-critical calculations.
